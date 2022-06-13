@@ -1,2 +1,6 @@
 Created this file to learn branching in git
+<<<<<<< HEAD
 Added branch2
+=======
+Introduced branch1
+>>>>>>> branch1
