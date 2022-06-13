@@ -1,1 +1,2 @@
 Created this file to learn branching in git
+Added branch2
